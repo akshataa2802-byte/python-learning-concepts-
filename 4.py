@@ -5,7 +5,7 @@ print(first_name *100)
 print(first_name.upper())
 print(last_name.lower())
 print(first_name.strip()*2)
-print(first_name.replace("akshata","abhishek"))
+print(first_name.replace("akshata","anil"))
 name="akshata said 'hello'"
 print(name)
 name="akshata"
