@@ -1,0 +1,19 @@
+food_list={
+    "bengaluru":"rice",
+    "mysuru":"mysuru_pak",
+    "davangere":"benne_dosa",
+    "mangaluru":"neer_dosa",
+    "udapi":"chikan_sukka"
+}
+print(food_list)
+food_list["belagavi"]="kunda"
+print(food_list)
+print(food_list.keys())
+print(food_list.values())
+food_list["bengaluru"]="rasam"
+print(food_list)
+food_list.pop("udapi")
+print(food_list)
+food_list.clear()
+print(food_list)
+

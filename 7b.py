@@ -1,0 +1,12 @@
+s1={"mango","banana","apple"}
+s2={"mango","orange","cherry"}
+s3=s1|s2
+print(s3)
+s3=s1&s2
+print(s3)
+s3=s1-s2
+print(s3)
+s1.add("pappaya")
+print(s1)
+s1.discard("pihbjh")
+print(s1)

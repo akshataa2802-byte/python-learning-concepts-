@@ -1,0 +1,5 @@
+sentence=input("enter your sentence")
+print("uppercase:",sentence.upper())
+print("lowercase",sentence.lower())
+print("replaced",sentence.replace(" ","_"))
+print("stripped",sentence.strip())

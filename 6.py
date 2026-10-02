@@ -1,0 +1,13 @@
+items=["sugar","coffe_powder","tea_powder"]
+print(items)
+print(items[0])
+items[1]="1"
+print(items)
+items.append(21)
+print(items)
+print(items[0:2])
+print(len(items))
+numbers=[3,4,5,6,7,8,9]
+print(sorted(numbers))
+print(sum(numbers))
+print(items.index("sugar"))

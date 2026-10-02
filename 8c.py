@@ -1,0 +1,13 @@
+frindes={
+    "friend1":{
+        "name":"abhi",
+        "fav_food":"egg",
+        "fav_sub":"python"
+    },
+    "friend2":{
+            "name":"pooja",
+            "fav_food":"rotti",
+            "fav_sub":"dbms"
+    }
+}
+print(frindes["friend1"]["fav_food"])

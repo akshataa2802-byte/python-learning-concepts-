@@ -1,0 +1,17 @@
+a=20
+b=10
+print(a)
+print(a+b)
+print(a-b)
+print(a*b)
+print(a**b)
+print(a/b)
+print(a//b)
+print(a%b)
+name="akshata"
+print(type(name))
+name=67.58
+print(type(name))
+name="abhi"
+Name="akshata"
+print(name)

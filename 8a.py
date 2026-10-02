@@ -1,0 +1,12 @@
+item_1={
+"name":"milk",
+"weight":"1",
+"price":"2345"
+}
+item_2={
+    "name":"sugar",
+    "weight":"2",
+    "price":"99.9"
+}
+item=[item_1,item_2]
+print(item)
